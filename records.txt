@@ -1,0 +1,3 @@
+Alice lookingglass 555 101.50
+Bob buildstuff 123 81.32
+Charlie nobiting 987 0.12
